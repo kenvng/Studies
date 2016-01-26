@@ -6,7 +6,7 @@ declared using var followed by the variable's name.
 
 Here's an example:
 
-   var example;
+var example;
 
 The above variable is declared, but it isn't defined (it does not yet
 reference a specific value).
