@@ -1,5 +1,5 @@
 var pizza = 'pizza is alright';
-pizza = pizza.replace('alright', 'wonderful');
+pizza = pizza.replace('alright', 'wonderful'); // using .replace() method to change alright to wonderful
 console.log(pizza);
 /*
 You will often need to change the contents of a string.
